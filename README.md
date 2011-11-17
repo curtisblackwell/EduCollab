@@ -1,1 +1,1 @@
-http://github.com/curtisblackwell/EduCollab/raw/master/img/mockup.png 
+https://github.com/curtisblackwell/EduCollab/blob/master/mockup.png
