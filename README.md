@@ -1,1 +1,1 @@
-(https://github.com/curtisblackwell/EduCollab/blob/master/mockup.png)
+![Mockup](https://github.com/curtisblackwell/EduCollab/blob/master/mockup.png)
